@@ -1,6 +1,6 @@
 
-balldemo/bin/demo.asm.bin
+*.bin
 
-balldemo/bin/demo.asm.lst
+*.lst
 
-balldemo/bin/demo.asm.sym
+*.sym
